@@ -29,6 +29,7 @@ leftPadIOSDK.leftPad('dog', 10, '#').then(function(response){
 })
 ```
 
+See `/examples` for more
 
 Contributing
 -------------------------------------------------------------------------------
