@@ -14,7 +14,7 @@ Installation
 -------------------------------------------------------------------------------
 
 ```bash
-$ npm install
+$ npm install left-pad-io-js-sdk
 ```
 
 
