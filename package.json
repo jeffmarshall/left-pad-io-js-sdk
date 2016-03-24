@@ -11,5 +11,17 @@
   "dependencies": {
     "promise": "^7.1.1",
     "request": "^2.69.0"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffmarshall/left-pad-io-js-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffmarshall/left-pad-io-js-sdk/issues"
+  },
+  "homepage": "https://github.com/jeffmarshall/left-pad-io-js-sdk#readme"
 }
