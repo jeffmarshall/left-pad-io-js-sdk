@@ -1,6 +1,6 @@
 'use strict';
 
-var Promise = require('Promise');
+var Promise = require('promise');
 var request = require('request');
 
 module.exports = (str, len, ch) => {

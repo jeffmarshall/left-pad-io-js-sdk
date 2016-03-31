@@ -1,3 +1,3 @@
 module.exports = {
-  'leftPad': require('./src');
+  'leftPad': require('./src')
 }

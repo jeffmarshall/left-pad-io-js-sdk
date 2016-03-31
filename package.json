@@ -4,7 +4,7 @@
   "description": "Node.js SDK for the left-pad.io API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/test.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,7 +15,11 @@
   "directories": {
     "example": "examples"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "left-pad": "1.0.1",
+    "should": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jeffmarshall/left-pad-io-js-sdk.git"
