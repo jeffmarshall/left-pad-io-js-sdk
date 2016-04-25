@@ -1,7 +1,7 @@
 left-pad-io-js-sdk
 ===============================================================================
 
-A robust javascript SDK for the [left-pad.io](https://left-pad.io) API.
+A robust javascript SDK for the [left-pad.io](http://left-pad.io) API.
 
 
 Requirements
